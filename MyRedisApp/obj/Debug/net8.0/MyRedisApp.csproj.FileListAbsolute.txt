@@ -1,0 +1,13 @@
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/bin/Debug/net8.0/MyRedisApp.deps.json
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/bin/Debug/net8.0/MyRedisApp.dll
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/bin/Debug/net8.0/MyRedisApp.pdb
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.csproj.AssemblyReference.cache
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.AssemblyInfoInputs.cache
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.AssemblyInfo.cs
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.csproj.CoreCompileInputs.cache
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.sourcelink.json
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.dll
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/refint/MyRedisApp.dll
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/MyRedisApp.pdb
+/Users/Julian.Codespoti/Desktop/Uni/SQL/RedisSharpStarter/MyRedisApp/obj/Debug/net8.0/ref/MyRedisApp.dll
