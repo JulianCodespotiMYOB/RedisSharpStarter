@@ -8,8 +8,15 @@ Apple M1 Pro, 1 CPU, 10 logical and 10 physical cores
 
 
 ```
-| Method                                     | Mean     | Error    | StdDev   |
-|------------------------------------------- |---------:|---------:|---------:|
-| &#39;Benchmark for Set operation in Redis.&#39;    | 76.77 μs | 1.516 μs | 3.776 μs |
-| &#39;Benchmark for Get operation in Redis.&#39;    | 77.09 μs | 1.532 μs | 3.871 μs |
-| &#39;Benchmark for Delete operation in Redis.&#39; | 74.74 μs | 1.483 μs | 2.928 μs |
+| Method                                           | Mean | Error |
+|------------------------------------------------- |-----:|------:|
+| &#39;Benchmark for Set operation in Redis.&#39;          |   NA |    NA |
+| &#39;Benchmark for Get operation in Redis.&#39;          |   NA |    NA |
+| &#39;Benchmark for Delete operation in Redis.&#39;       |   NA |    NA |
+| &#39;Benchmark for Fuzzy Search operation in Redis.&#39; |   NA |    NA |
+
+Benchmarks with issues:
+  RedisBenchmark.'Benchmark for Set operation in Redis.': DefaultJob
+  RedisBenchmark.'Benchmark for Get operation in Redis.': DefaultJob
+  RedisBenchmark.'Benchmark for Delete operation in Redis.': DefaultJob
+  RedisBenchmark.'Benchmark for Fuzzy Search operation in Redis.': DefaultJob

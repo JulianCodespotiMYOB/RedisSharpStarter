@@ -50,6 +50,14 @@
               "target": "Package",
               "version": "[0.13.9, )"
             },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.103.0-beta, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.0.0-rc1, )"
+            },
             "NBench": {
               "target": "Package",
               "version": "[2.0.1, )"
@@ -59,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.2.2, )"
+            },
+            "OfficeOpenXml.Core.ExcelPackage": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "StackExchange.Redis": {
               "target": "Package",
@@ -123,6 +135,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.15, )"
+            },
             "NBench": {
               "target": "Package",
               "version": "[2.0.1, )"
@@ -133,6 +149,10 @@
               "target": "Package",
               "version": "[1.2.2, )"
             },
+            "OfficeOpenXml.Core.ExcelPackage": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Pro.NBench.xUnit": {
               "target": "Package",
               "version": "[2.0.0, )"
@@ -140,6 +160,10 @@
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.2.88, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
